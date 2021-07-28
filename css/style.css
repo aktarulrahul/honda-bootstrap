@@ -39,3 +39,17 @@ body {
   color: #383838 !important;
   background-color: white !important;
 }
+
+.accordion-button:focus {
+  box-shadow: none !important;
+}
+
+.honda-icon {
+  font-size: 72px;
+  margin-bottom: 30px;
+  color: #e76f51;
+}
+
+.honda-gray {
+  background-color: rgb(155, 155, 155);
+}
