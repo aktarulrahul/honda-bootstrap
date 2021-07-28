@@ -1,0 +1,20 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.honda-header-bg {
+  background-color: #264653;
+}
+.honda-button-bg {
+  background-color: #e76f51;
+}
+.honda-button-bg:hover {
+  background-color: #f56643;
+}
+
+.honda-button-bg:active,
+.honda-button-bg:visited {
+  background-color: #f56643;
+}
