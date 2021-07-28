@@ -15,7 +15,7 @@ body {
 }
 
 .honda-button-bg:active,
-.honda-button-bg:visited {
+.honda-button-bg:focus {
   background-color: #f56643;
 }
 
@@ -27,6 +27,15 @@ body {
   filter: grayscale(100%);
 }
 
+.honda-faq-color {
+  color: #7e848c;
+}
+
 .fa-star {
   color: #e77c40;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #383838 !important;
+  background-color: white !important;
 }
