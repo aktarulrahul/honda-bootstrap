@@ -26,3 +26,7 @@ body {
 .honda-fetured-gray {
   filter: grayscale(100%);
 }
+
+.fa-star {
+  color: #e77c40;
+}
