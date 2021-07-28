@@ -18,3 +18,11 @@ body {
 .honda-button-bg:visited {
   background-color: #f56643;
 }
+
+.honda-font-color {
+  color: #e76f51;
+}
+
+.honda-fetured-gray {
+  filter: grayscale(100%);
+}
